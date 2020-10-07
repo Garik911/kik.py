@@ -7,4 +7,4 @@ def car (Peugeot):
         print('no')
     else:
         print('OK')
-car(Peugeot)
+car(406)
