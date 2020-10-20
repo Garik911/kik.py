@@ -8,3 +8,6 @@ def car (Peugeot):
     else:
         print('OK')
 car(Peugeot)
+
+
+# небольшое задание на закрепление пройденной темы.
